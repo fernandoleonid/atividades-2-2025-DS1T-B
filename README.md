@@ -5,4 +5,4 @@
 2. DEV
 3. Galeria
 4. Funcionários
-5. FLEX
+5. [FLEX](./img/flex.png)
