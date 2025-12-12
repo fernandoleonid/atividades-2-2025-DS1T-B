@@ -9,7 +9,7 @@
 6. [Pikachu](https://www.figma.com/design/HLUdxgDy8ETxVCmwOkAiqF/SENAI---pikachu?node-id=0-1&t=72ScIYoyBj4iDSBL-1)
 7. FIGMA
 8. Projeto FIGMA
-9. Projeto DUPLA
+9. [Projeto DUPLA](https://www.notion.so/Atividades-Figma-88af74a199f84cbe9cf27ccdf79daf2b)
 10. [CSS BATTLE](https://cssbattle.dev/play/1)
 
 ## Dicas
